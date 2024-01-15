@@ -1,0 +1,31 @@
+{
+  "name": "sharpcoders-csharp-starter-pack",
+  "displayName": "SharpCoders C# + .NET - Starter Pack",
+  "description": "Extension pack to ease the development of C# applications at the SharpCoders Bootcamp",
+  "version": "1.0.0",
+  "publisher": "Hoogle",
+  "icon": "icon.png",
+  "author": {
+    "name": "Hoogle",
+    "email": "contact@hoogle.education"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "DavidAnson.vscode-markdownlint", 
+    "eamodio.gitlens", 
+    "Gruntfuggly.todo-tree", 
+    "miguelsolorio.fluent-icons", 
+    "ms-dotnettools.csharp", 
+    "ms-dotnettools.vscode-dotnet-runtime", 
+    "ms-vsliveshare.vsliveshare", 
+    "ms-dotnettools.vscodeintellicode-csharp",
+    "ms-dotnettools.csdevkit",
+    "adrianwilczynski.namespace",
+    "humao.rest-client"
+  ]
+}
